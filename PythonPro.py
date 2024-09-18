@@ -1,1 +1,1 @@
-print("Hello, my first homework!:)")
+print("It is first homework!:)")
