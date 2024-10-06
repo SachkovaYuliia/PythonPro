@@ -1,0 +1,2 @@
+192.168.1.1 "GET /nonexistentpage HTTP/1.1" 404
+192.168.1.1 "POST /api/data HTTP/1.1" 500
